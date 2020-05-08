@@ -1,0 +1,1 @@
+This program replaces all the values from pokemon_constants to 6B (Zubat)
